@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TestTrafficLight
+comment0.text=\r\n\ A\ class\ that\ tests\ the\ TraficLights\ class\r\n\r\n\ @author\ Oskar\ Sokol\r\n\ @version\ v1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

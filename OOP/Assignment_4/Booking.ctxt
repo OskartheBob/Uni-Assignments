@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Booking
+comment0.text=\r\n\ @author\ Oskar\ Sokol\r\n\ @version\ v1.0\r\n
+comment1.params=id\ noOfPassengers
+comment1.target=Booking(int,\ int)
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=id
+comment3.target=void\ setId(int)
+comment4.params=
+comment4.target=int\ getNoOfPassengers()
+comment5.params=noOfPassengers
+comment5.target=void\ setNoOfPassengers(int)
+numComments=6

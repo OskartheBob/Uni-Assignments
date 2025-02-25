@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Ostrich
+comment1.params=
+comment1.target=Ostrich()
+comment2.params=
+comment2.target=boolean\ isTall()
+comment2.text=\r\n\ getter\ method\ for\ the\ isTall\ field\r\n
+comment3.params=
+comment3.target=boolean\ hasThinLongLegs()
+comment3.text=\r\n\ getter\ method\ for\ the\ hasThinLongLegs\ field\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ toString\ method\ returns\ a\ String\ representation\ of\ the\ bird\r\n
+comment5.params=obj
+comment5.target=boolean\ equals(java.lang.Object)
+comment5.text=\r\n\ equals\ method\ defines\ how\ equality\ is\ defined\ between\ \r\n\ the\ instances\ of\ the\ Ostrich\ class\r\n\ param\ Object\r\n\ return\ true\ or\ false\ depending\ on\ whether\ the\ input\ object\ is\ \r\n\ equal\ to\ this\ Ostrich\ object\r\n
+numComments=6

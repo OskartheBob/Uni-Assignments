@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TrafficLights
+comment0.text=\r\n\ A\ class\ that\ represents\ a\ traffic\ light\r\n\r\n\ Oskar\ Sokol\r\n\ v1.0\r\n
+comment1.params=
+comment1.target=TrafficLights()
+comment2.params=
+comment2.target=void\ go()
+comment3.params=
+comment3.target=void\ prepareToStop()
+comment4.params=
+comment4.target=void\ stop()
+comment5.params=
+comment5.target=void\ printState()
+numComments=6

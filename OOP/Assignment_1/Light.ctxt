@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Light
+comment0.text=\r\n\ A\ class\ that\ represents\ the\ state\ of\ a\ singular\ light\r\n\r\n\ @author\ Oskar\ Sokol\r\n\ @version\ v1.0\r\n
+comment1.params=colour
+comment1.target=Light(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getColour()
+comment3.params=colour
+comment3.target=void\ setcolour(java.lang.String)
+comment4.params=
+comment4.target=void\ lightOn()
+comment5.params=
+comment5.target=void\ lightOff()
+comment6.params=
+comment6.target=void\ printState()
+numComments=7

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Trout
+comment1.params=
+comment1.target=Trout()
+comment2.params=
+comment2.target=boolean\ hasSpikes()
+comment2.text=\r\n\ getter\ method\ for\ the\ hasSpikes\ field\r\n
+comment3.params=
+comment3.target=boolean\ isEdible()
+comment3.text=\r\n\ getter\ method\ for\ the\ isEdible\ field\r\n
+comment4.params=
+comment4.target=void\ laysEggsUpRiver()
+comment4.text=\r\n\ getter\ method\ for\ the\ laysEggsUpRiver\ field\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ toString\ method\ returns\ a\ String\ representation\ of\ the\ fish\r\n
+comment6.params=obj
+comment6.target=boolean\ equals(java.lang.Object)
+comment6.text=\r\n\ equals\ method\ defines\ how\ equality\ is\ defined\ between\ \r\n\ the\ instances\ of\ the\ Trout\ class\r\n\ param\ Object\r\n\ return\ true\ or\ false\ depending\ on\ whether\ the\ input\ object\ is\ \r\n\ equal\ to\ this\ Trout\ object\r\n
+numComments=7
