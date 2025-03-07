@@ -1,16 +1,16 @@
 public class Main {
 
     public static void main(String[] args){
-        Palindrome palindrome = new Palindrome();
+        Palindrome palindrome = new Palindrome(); //create new palindrome object
 
-        palindrome.operationCount = 0;
-        for(int i = 0; i < 1000000; i++){
-            boolean decimal = palindrome.reverseComparison(String.valueOf(i));
-            boolean binary = palindrome.reverseComparison(palindrome.decimalBinary(i));
-            if(decimal && binary){
-                palindrome.reverseCount ++;
+        palindrome.operationCount = 0; //set the operation count to 0
+        for(int i = 0; i < 1000000; i++){ //iterate through the numbers 0-1000000
+            boolean decimal = palindrome.reverseComparison(String.valueOf(i)); //run the reverseComparison method on the value of i
+            boolean binary = palindrome.reverseComparison(palindrome.decimalBinary(i)); //run the reverseComparison method on the binary value of i
+            if(decimal && binary){ //check if both decimal and binary are palindromes
+                palindrome.reverseCount ++; //increase the count of both bases being palindromes
             }
-            if(i%50000 == 0 && i != 0){
+            if(i%50000 == 0 && i != 0){ //get the results for every 50000 numbers
                 System.out.println("Range to " + i);
                 System.out.print("Time Taken: " + palindrome.reverseTime + "ms | ");
                 System.out.print("Number of Dual Base Palindromes:  " + palindrome.reverseCount + "| ");
